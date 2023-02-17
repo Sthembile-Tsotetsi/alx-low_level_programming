@@ -1,6 +1,6 @@
 /*
  * File: 6-size.c
- * Author: Sthembile Tsotetsi
+ * Auth: Sthembile Tsotetsi
  */
 
 #include <stdio.h>
