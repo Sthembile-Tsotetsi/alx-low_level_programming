@@ -6,20 +6,17 @@
  */
 int main(void)
 {
-	int digit1, digit2;
+	int n;
 
-	for (digit2 = 0; digit2 < 10; digit2++)
+	for (n = 48; n < 58; n++)
 	{
-		for (digit2 = 0; digit2 < 10; digit2++)
-		{
-			putchar((digit1 % 10) + '0');
-			putchar((digit2 % 10) + '0');	
 
-			if (digit1 == 9 && digit2 == 9)
-				continue;
+		putchar(n);
+		if (n != 57)
+		{
 
 			putchar(',');
-			putchar(' ');
+			putchar('');
 		}
 	}
 
