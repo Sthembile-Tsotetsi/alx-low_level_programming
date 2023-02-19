@@ -1,7 +1,9 @@
 /*
-* File: 102-print_comb5.c
-* Auth: Sthembile Tsotetsi
-*/
+ *File: 102-print_comb5.c
+ *Auth: Sthembile Tsotetsi
+ */
+
+include <stdio.h>
 
 /**
  * main - Prints all possible combinations of two two-digit numbers,
