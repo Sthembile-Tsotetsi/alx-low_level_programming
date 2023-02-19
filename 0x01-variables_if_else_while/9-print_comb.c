@@ -1,3 +1,10 @@
+/*
+ * File: 9-print_comb.c
+ * Auth: Sthembile Tsotetsi
+ */
+
+#include <stdio.h>
+
 /**
  * main -Prints all possible combinations of single-diigit numbers,
  *  in ascending order.
