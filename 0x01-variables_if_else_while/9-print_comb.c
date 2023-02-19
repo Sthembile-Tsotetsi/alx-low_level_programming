@@ -1,8 +1,8 @@
 /**
- *  main -Prints all possible combinations of single-diigit numbers,
+ * main -Prints all possible combinations of single-diigit numbers,
  *  in ascending order.
  *
- *  Return: Always 0.
+ * Return: Always 0.
  */
 int main(void)
 {
