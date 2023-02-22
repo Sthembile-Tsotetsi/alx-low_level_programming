@@ -7,9 +7,9 @@
 #include "main.h"
 
 /**
- * print_times_table - Prints the 9 times table, starting with 0.
+ * times_table - Prints the 9 times table, starting with 0.
  */
-void print_times_table(int n)
+void times_table(void)
 {
 	int num, mult, prod;
 
