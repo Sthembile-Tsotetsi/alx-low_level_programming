@@ -1,11 +1,10 @@
 #include "main.h"
-#include <stdio.h>
 
 int find_sqrt(int num, int root);
 int _sqrt_recursion(int n);
 
 /**
- * _sqrt_recursion - Returns the natural sqaure root of a number.
+ * find_sqrt - Finds the square root of an inputted number.
  *@num: The number to find the aquare root of.
  *@root: The root to be tested.
  *
