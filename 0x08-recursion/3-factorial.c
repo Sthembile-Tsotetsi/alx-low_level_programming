@@ -4,7 +4,7 @@
  * @n: The number to find the factorial of.
  *
  * Retun: If n > 0 - the factorial of n.
- * If n < 0 - to indicate an error.
+ *	 If n < 0 - to indicate an error.
  */
 int factorial(int n)
 {
