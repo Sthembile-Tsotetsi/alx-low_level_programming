@@ -1,10 +1,11 @@
-#ifndef main.h
-#define main.h
+#ifndef main_h
+#define main_h
 
 /**
  * File: main.h
  * Auth: Sthembile Tsotetsi
- * Desc: Header file containing prototypes of all functions and the prototype of the function.
+ * Desc: Header file containing prototypes of all functions
+ * and the prototype of the function.
  */
 
 int _putchar(char c);
